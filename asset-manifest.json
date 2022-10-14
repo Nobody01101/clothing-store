@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/clothing-store/static/css/main.a4988e09.css",
+    "main.js": "/clothing-store/static/js/main.17c76044.js",
+    "static/js/787.a8adf915.chunk.js": "/clothing-store/static/js/787.a8adf915.chunk.js",
+    "static/media/product3.png": "/clothing-store/static/media/product3.925e5d293fb0ad856388.png",
+    "static/media/product5.png": "/clothing-store/static/media/product5.21d42058c7ede1d25a97.png",
+    "static/media/product8.png": "/clothing-store/static/media/product8.efb235190761aeb2576a.png",
+    "static/media/roboto-all-500-normal.woff": "/clothing-store/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
+    "static/media/product6.png": "/clothing-store/static/media/product6.ac6bbcf3eb57ba012482.png",
+    "static/media/product9.png": "/clothing-store/static/media/product9.67badce6210c5059cb9f.png",
+    "static/media/product2.png": "/clothing-store/static/media/product2.11149ec2d4383259cb97.png",
+    "static/media/product4.png": "/clothing-store/static/media/product4.cc582610b66f1127af85.png",
+    "static/media/product1.png": "/clothing-store/static/media/product1.d2249bc0a73832b93f76.png",
+    "static/media/product7.png": "/clothing-store/static/media/product7.97a63019ede1186cf8ce.png",
+    "static/media/like.png": "/clothing-store/static/media/like.acb1057ce3c9ad67b95b.png",
+    "static/media/roboto-latin-500-normal.woff2": "/clothing-store/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
+    "static/media/roboto-cyrillic-ext-500-normal.woff2": "/clothing-store/static/media/roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2",
+    "static/media/dress.png": "/clothing-store/static/media/dress.6e79faa8899d6aa2a136.png",
+    "static/media/roboto-latin-ext-500-normal.woff2": "/clothing-store/static/media/roboto-latin-ext-500-normal.9165081d10e1ba601384.woff2",
+    "static/media/roboto-cyrillic-500-normal.woff2": "/clothing-store/static/media/roboto-cyrillic-500-normal.cad7d3d9cb265e334e58.woff2",
+    "static/media/roboto-greek-500-normal.woff2": "/clothing-store/static/media/roboto-greek-500-normal.9ac81fefbe6c319ea40b.woff2",
+    "static/media/roboto-vietnamese-500-normal.woff2": "/clothing-store/static/media/roboto-vietnamese-500-normal.d8642a3d1d4ef6179644.woff2",
+    "static/media/roboto-greek-ext-500-normal.woff2": "/clothing-store/static/media/roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
+    "index.html": "/clothing-store/index.html",
+    "main.a4988e09.css.map": "/clothing-store/static/css/main.a4988e09.css.map",
+    "main.17c76044.js.map": "/clothing-store/static/js/main.17c76044.js.map",
+    "787.a8adf915.chunk.js.map": "/clothing-store/static/js/787.a8adf915.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4988e09.css",
+    "static/js/main.17c76044.js"
+  ]
+}
