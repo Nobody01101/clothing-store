@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/clothing-store/static/css/main.a4988e09.css",
-    "main.js": "/clothing-store/static/js/main.17c76044.js",
+    "main.js": "/clothing-store/static/js/main.cdb462fe.js",
     "static/js/787.a8adf915.chunk.js": "/clothing-store/static/js/787.a8adf915.chunk.js",
     "static/media/product3.png": "/clothing-store/static/media/product3.925e5d293fb0ad856388.png",
     "static/media/product5.png": "/clothing-store/static/media/product5.21d42058c7ede1d25a97.png",
@@ -24,11 +24,11 @@
     "static/media/roboto-greek-ext-500-normal.woff2": "/clothing-store/static/media/roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
     "index.html": "/clothing-store/index.html",
     "main.a4988e09.css.map": "/clothing-store/static/css/main.a4988e09.css.map",
-    "main.17c76044.js.map": "/clothing-store/static/js/main.17c76044.js.map",
+    "main.cdb462fe.js.map": "/clothing-store/static/js/main.cdb462fe.js.map",
     "787.a8adf915.chunk.js.map": "/clothing-store/static/js/787.a8adf915.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4988e09.css",
-    "static/js/main.17c76044.js"
+    "static/js/main.cdb462fe.js"
   ]
 }
